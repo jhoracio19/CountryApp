@@ -1,9 +1,10 @@
 import { Routes } from "@angular/router";
 import { CountryLayout } from "./layouts/CountryLayout/CountryLayout";
-import { ByCapitalPage } from "./pages/by-capital-page/by-capital-page";
+
 import { ByCountryPage } from "./pages/by-country-page/by-country-page";
 import { ByRegionPage } from "./pages/by-region-page/by-region-page";
 import { CountryPage } from "./pages/country-page/country-page";
+import { ByCapitalPage } from "./pages/by-capital-page/by-capital-page";
 
 
 export const countryRoutes: Routes = [
